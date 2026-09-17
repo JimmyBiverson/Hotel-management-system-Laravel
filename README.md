@@ -1,81 +1,50 @@
 # Hotel-management-system-Laravel
-# Hotel Management System
+# Hospital Management System
 
-A Laravel-based hotel management system for managing **rooms, guests, bookings, check-ins, check-outs, and payments** efficiently.
+A **Laravel-based Hospital Management System** designed to manage hospital operations, patient records, appointments, doctors, nurses, pharmacy, laboratory services, billing, and other administrative activities.
 
-## Features
+## Main Features
 
-* Room Management
-* Guest Management
-* Booking Management
-* Check-in & Check-out
-* Payment Management
-* Dashboard
-* User Authentication
+* Admin Dashboard
+* Department Management
+* Doctor Management
+* Patient Management
+* Nurse Management
+* Receptionist Management
+* Pharmacist & Medicine Management
+* Laboratory & Diagnostic Reports
+* Appointment Management
+* Patient Medical Records
+* Prescriptions
+* Invoices & Payments
+* Payroll Management
+* Blood Bank Management
+* Birth & Death Records
+* Hospital Reports
+* User Roles & Permissions
+
+## User Roles
+
+* Admin
+* Doctor
+* Patient
+* Nurse
+* Pharmacist
+* Laboratorist
+* Accountant
+* Receptionist
 
 ## Technologies
 
-* **Laravel**
-* **PHP**
-* **MySQL**
-* **Blade**
-* **JavaScript**
-* **Bootstrap / CSS**
+* Laravel
+* PHP
+* MySQL
+* Blade
+* JavaScript
+* Bootstrap / CSS
 
-## Installation
+## Purpose
 
-Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/hotel-management-system.git
-```
-
-Navigate to the project:
-
-```bash
-cd hotel-management-system
-```
-
-Install dependencies:
-
-```bash
-composer install
-npm install
-```
-
-Create the environment file:
-
-```bash
-cp .env.example .env
-```
-
-Generate the application key:
-
-```bash
-php artisan key:generate
-```
-
-Configure your database in the `.env` file, then run:
-
-```bash
-php artisan migrate
-```
-
-Start the application:
-
-```bash
-php artisan serve
-```
-
-Visit:
-
-```text
-http://127.0.0.1:8000
-```
-
-## Author
-
-**Jimmy Bamugemye**
-
-Software Developer | PHP & Laravel | Full-Stack Web & Mobile
+The system helps hospitals reduce manual paperwork and manage their daily operations through one centralized platform.
+ | Full-Stack Web & Mobile
 
