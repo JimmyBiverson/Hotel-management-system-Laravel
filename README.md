@@ -1,5 +1,4 @@
 # Hotel-management-system-Laravel
-# Hospital Management System
 
 A **Laravel-based Hospital Management System** designed to manage hospital operations, patient records, appointments, doctors, nurses, pharmacy, laboratory services, billing, and other administrative activities.
 
